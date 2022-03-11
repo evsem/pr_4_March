@@ -1,0 +1,30 @@
+.wrapper {
+  margin: 7px 0px;
+  margin: 8px 0px;
+  padding: 12px;
+  background-color: transparent;
+  border: 2px solid grey;
+  border-radius: 3px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  font-family: 'Montserrat';
+  color: black;
+  text-align: left;
+}
+
+.container_titlePost {
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin: 0px 0px 7px 0px;
+}
+
+.container_infoAboutPost {
+  font-size: 22px;
+  font-weight: 300;
+}

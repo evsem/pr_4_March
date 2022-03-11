@@ -1,0 +1,17 @@
+.loaderGrey {
+  width: 110px;
+  height: 110px;
+  border: 2px dashed grey;
+  border-radius: 50%;
+
+  animation: rotate 1s infinite linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
